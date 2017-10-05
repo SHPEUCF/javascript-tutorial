@@ -73,6 +73,4 @@ Let's take one more glance at the concepts we just learned:
     - Libraries are collections of methods that can be called without an instance.
 
     - You can write single-line comments with //
-    and multi-line comments between /* and */.
-
-*/
+    and multi-line comments between /* and */ 
