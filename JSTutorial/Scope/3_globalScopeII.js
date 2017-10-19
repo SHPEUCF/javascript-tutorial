@@ -4,12 +4,8 @@
 While it's important to know what global scope is,
 it's better to avoid defining variables in the
 global scope. Globally scoped variables can collide
- with variables that are more locally scoped,
- causing unexpected behavior in our code.
-
-
-
-
+with variables that are more locally scoped,
+causing unexpected behavior in our code.
 
 */
 
