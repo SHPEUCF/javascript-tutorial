@@ -1,10 +1,12 @@
 /*
-8. ARRAYS WITH LET AND const
+8. ARRAYS WITH LET AND CONST
 
-you can reassign arrays with LET
-you cannot do the same thing with const
+you can reassign arrays with 'let'
+
+you cannot do the same thing with 'const'
+
 you can always update/change const arrays
-thought, the are still mutable.
+though, the are still mutable.
 
 
 
@@ -15,7 +17,15 @@ thought, the are still mutable.
 
 /*
 
- 1.
+ 1. Add your favorite condiment to the
+ condiments array using .push()
+
+ Log updated array to console
+
+ 2. Reassign condiments to be an
+  array that contains a single string.
+
+  Log the result to the console.
 
  */
 
