@@ -8,7 +8,8 @@ It's called the constructor method.
 JavaScript calls the constructor() method
 every time it creates a new instance of a class.
 
-"this" keyword refers to an instance of that class
+"this" keyword refers to an instance of that
+class
 
 */
 

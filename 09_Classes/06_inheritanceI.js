@@ -26,5 +26,3 @@ DIAGRAM ON Codecademy
 
 
  */
-
-// Example

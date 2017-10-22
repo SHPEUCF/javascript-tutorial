@@ -35,15 +35,20 @@ let halley = {
 
  2. Copy the class instantiation, method call,
     and console.log() statements below:
- const halley = new Dog('Halley');
+
+const halley = new Dog('Halley');
 console.log(halley.name);
 // Print name value to console
+
 console.log(halley.behavior);
 // Print behavior value to console
+
 halley.incrementBehavior();
 // Add one to behavior
+
 console.log(halley.name);
 // Print name value to console
+
 console.log(halley.behavior);
 // Print behavior value to console
 
