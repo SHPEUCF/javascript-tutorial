@@ -36,9 +36,13 @@ a system of technologies called Asynchronous J
 avaScript and XML, or AJAX.
 
 Before continuing with this lesson, you should
-visit the Google URL Shortener API
+visit the Google URL Shortener API:
+https://developers.google.com/url-shortener/v1/getting_started
+
 documentation and follow the instructions
 in this article to create an API Key.
+
+https://www.codecademy.com/articles/google-api
 
 
 */
