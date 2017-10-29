@@ -44,9 +44,11 @@ function expandUrl() {
   xhr.responseType = 'json';
   xhr.onreadystatechange = function () {
     if (xhr.readyState === XMLHttpRequest.DONE) {
-      console.log(xhr.response);
+      $responseField.append('<p>Your expanded url is: </p><p>' + xhr.response.longUrl + '</p>');
     }
   };
+  xhr.open('GET', urlToExpand);
+  xhr.send();
 }
 
 function shortenUrl() {
