@@ -1,7 +1,9 @@
 /*
-1. NAME
+3. fetch() GET Requests II
 
-
+  Great explanation on Codecademy
+  read it for more technical
+  understanding of the fetch() function
 
 */
 
@@ -10,8 +12,6 @@
 
 /*
 
-1.
+1. NEXT
 
 */
-
-// ANSWER
