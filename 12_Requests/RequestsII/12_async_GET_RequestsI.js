@@ -1,5 +1,5 @@
 /*
-1. NAME
+12. async GET Requests I
 
 
 
@@ -9,9 +9,6 @@
 // --- On Codecademy ---
 
 /*
-
-1.
-
+ NEXT
 */
 
-// ANSWER
